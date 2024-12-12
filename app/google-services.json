@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "216665559480",
+    "project_id": "cebuwanderings-ec7d6",
+    "storage_bucket": "cebuwanderings-ec7d6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216665559480:android:93612d9bb3420851b63f4d",
+        "android_client_info": {
+          "package_name": "com.example.cebuwanderingsagain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuj8hmJSXMqfQIQ0hPSh0O0wKWerI2oL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
